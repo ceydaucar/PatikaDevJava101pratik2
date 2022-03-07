@@ -1,5 +1,5 @@
 # Taksimetre Hesaplayan Program
-Patika.dev > Java101 > Pratik4 - Taksimetre Hesaplayan Program
+Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Pratik4 - Taksimetre Hesaplayan Program
 
 ## Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
 
